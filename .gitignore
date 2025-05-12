@@ -4,3 +4,4 @@
 *.apk
 *.aab
 *.unitypackage
+**/Packages/com.ptc.vuforia.engine-*.tgz
