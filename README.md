@@ -31,7 +31,7 @@ An **Augmented Reality (AR)** mobile game built with **Unity** and **Vuforia Eng
    git clone https://github.com/dhiaKahaw/twin-towers-ar-defense.git
    ```
 2. Open in Unity:
-   Load the project in Unity 202X.X.
+   Load the project in Unity 6000.0.36f
    Ensure Vuforia is enabled (XR Plug-in Management settings).
 3. Test in Editor:
    Use a webcam or Vuforia Play Mode for AR simulation.
