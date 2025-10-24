@@ -1,8 +1,8 @@
 # Save The Towers AR Defense - Vuforia Mobile Game
 
-An **Augmented Reality (AR)** mobile game built with **Unity** and **Vuforia Engine**, where players defend the Twin Towers from incoming planes using touch controls.
+An **Augmented Reality (AR)** mobile game built with **Unity** and **Vuforia Engine**, where players defend the Towers from incoming planes using touch controls.
 
-## 📌 Features
+## Features
 
 - **AR Tracking**: Uses Vuforia's Image Targets or Ground Plane for AR immersion.
 - **Touch Controls**: Tap to shoot down planes before they hit the towers.
@@ -10,17 +10,17 @@ An **Augmented Reality (AR)** mobile game built with **Unity** and **Vuforia Eng
 - **Dynamic Difficulty**: Planes spawn faster as time progresses.
 - **Mobile-Optimized**: Designed for Android with intuitive UI.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Unity** (202X.X LTS)
 - **Vuforia Engine** (vX.X)
 - **C#** (For game logic)
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Prerequisites
 
-- Unity Hub + Unity 202X.X
+- Unity Hub + Unity 6000
 - Vuforia Engine package (installed via Unity Package Manager)
 - Android/iOS development setup (for builds)
 
